@@ -1,3 +1,4 @@
+<img align="right" alt="logo" src="https://github.com/Ifthekhar1550/Ifthekhar1550/blob/main/Mohammad%20Ifthekhar%20Alam%20Akib.png" style= "width:100%; height:auto;">
 <h1 align="center">Hi 👋, I'm Mohammad Ifthekhar Alam Akib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400"src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
