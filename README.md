@@ -6,6 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifthekhar1550&label=Profile%20views&color=0e75b6&style=flat" alt="ifthekhar1550" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔭 I’m currently working on in an **Office project**
+
+- 👯 I’m looking to collaborate on** anything if I learn something new**
+
+- 🤝 I’m looking for help with **JS**
 
 - 🌱 I’m currently learning **React.js , Node.js**
 
@@ -17,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md. ifthekhar alam akib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. ifthekhar alam akib" height="30" width="40" /></a>
-<a href="https://fb.com/ifthekhar alam akib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ifthekhar alam akib" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-ifthekhar-alam-akib-827017195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. ifthekhar alam akib" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rxboy.akib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ifthekhar alam akib" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/akib_rex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="akib_rex" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/akib_rex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akib_rex" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ifthekhar_alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ifthekhar_alam" height="30" width="40" /></a>
