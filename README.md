@@ -5,7 +5,7 @@
 
 I'm a passionate Front-End Developer with a knack for turning creative ideas into stunning and interactive web experiences. Welcome to my GitHub!
 
-
+<img align="right" alt="animation" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 ## 🌱 Currently Learning
 
 I’m currently learning **React.js** and **Node.js** to enhance my web development skills and build more dynamic applications.
