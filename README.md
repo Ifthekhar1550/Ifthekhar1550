@@ -25,10 +25,10 @@ Feel free to reach out to me via email at **mdifthekharalamakib1550@gmail.com**.
 
 ## 👨‍💻 Programming Languages
 
-<div style="display: flex; margin-bottom: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" title="C" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++" style="margin-right: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript" style="margin-right: 10px;">
+<div style="display: flex; margin-bottom: 10px; gap:.5rem;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" title="C">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript">
 </div>
 
 
