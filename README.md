@@ -110,7 +110,7 @@ You can connect with me on:
   <a href="https://www.linkedin.com/in/md-ifthekhar-alam-akib-827017195" target="_blank" title="LinkedIn"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"></a>
   <a href="https://www.facebook.com/rxboy.akib" target="_blank" title="Facebook"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"></a>
  <a href="https://www.beecrowd.com.br/judge/en/profile/409190" target="_blank" title="beecrowd"><img src="https://user-images.githubusercontent.com/80118217/182170124-b6e845a1-a252-40d9-8c60-8092911c4649.png" alt="beecrowd" width="40" height="40"></a>
- 
+ <a href="https://www.codewars.com/users/Ifthekhar1550" target="_blank" title="Code Wars"><img src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/06/10173017/codewars-logo-1.png" alt="CodeWars" width="40" height="40"></a>
    <a href="https://atcoder.jp/users/AkibReX" target="_blank" title="AtCodder"><img src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="atcodder" width="40" height="40"></a>
   <a href="https://www.codechef.com/users/akib_rex" target="_blank" title="CodeChef"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="40" height="40"></a>
   <a href="https://codeforces.com/profile/akib_rex" target="_blank" title="Codeforces"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40"></a>
