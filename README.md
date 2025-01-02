@@ -119,3 +119,5 @@ You can connect with me on:
 </div>
 
 Feel free to explore my repositories and get in touch. I'm always up for exciting collaborations and discussions related to Front-End Development. Let's build something amazing together! 😄
+
+![Snake GIF](https://github.com/Ifthekhar1550/Ifthekhar1550/blob/output/github-contribution-grid-snake.svg)
