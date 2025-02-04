@@ -19,7 +19,7 @@ I'm looking for help and mentorship in improving my **JavaScript** skills.
 
 ## 📫 How to reach me
 
-Feel free to reach out to me via email at **mdifthekharalamakib1550@gmail.com**
+Feel free to reach out to me via email at **ifthekhar1550@gmail.com**
 
 
 
